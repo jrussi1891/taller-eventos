@@ -1,3 +1,3 @@
 const div = document.addEventListener('click', () => {
-    alert("Hola soy el div")
+    alert("Hola! soy el div")
 })
